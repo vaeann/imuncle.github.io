@@ -10,7 +10,7 @@
        "首页":"./",
         "随笔":"issue_per_label.html?label=随笔",
         "絮叨":"issue_per_label.html?label=絮叨",
-        "关于我": "content.html?id=1"
+        "关于我": "content.html?id=2"
     },
     "friends": {
         "Bo": "https://greedbob.github.io",
