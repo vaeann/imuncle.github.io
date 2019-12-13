@@ -1,21 +1,16 @@
 {
     "name": "vaeann",
-    "repo": "weian.github.io",
+    "repo": "vaeann.github.io",
     "client_id": "7f93364697365aca0caa",
     "client_secret": "2315e51a279722ea5757e0ba21bcf9879c6d882c",
     "title": "稳健的取经少年",
     "instruction": "委委佗佗，如山如河",
     "server_link": "http://119.23.8.25/gh-oauth-server.php",
     "menu": {
-       "机器学习":"issue_per_label.html?label=AI",
-        "小项目":"issue_per_label.html?label=Project",
-        "RM比赛":"issue_per_label.html?label=RM",
-        "ROS学习":"issue_per_label.html?label=ROS",
-        "小工具":"issue_per_label.html?label=tools",
-        "网页开发":"issue_per_label.html?label=web",
-        "其他":"issue_per_label.html?label=other",
-        "灵感想法":"https://imuncle.github.io/timeline",
-        "关于我": "content.html?id=41"
+       "首页":"./",
+        "随笔":"issue_per_label.html?label=suibi",
+        "絮叨":"issue_per_label.html?label=xudao",
+        "关于我": "content.html?id=1"
     },
     "friends": {
         "Bo": "https://greedbob.github.io",
